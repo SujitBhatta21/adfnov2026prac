@@ -1,0 +1,16 @@
+{
+	"name": "adfresourcenewone",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3c73d013-7809-4fcc-8207-b4ac154a986e",
+		"tenantId": "c47dcb05-0937-454a-a92b-cf6f3697013f"
+	}
+}
